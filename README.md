@@ -27,7 +27,9 @@ class hello{
         System.out.println(length*breadth);
     }
 }
-public class Recatangle8 {
+public class Recatangle8 
+{
+
     public static void main(String[] args) {
         hello obj = new hello();
         obj.m1();
